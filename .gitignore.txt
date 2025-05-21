@@ -1,0 +1,6 @@
+
+// ne pas suivre ce dossier
+node_modules/
+
+// ne pas suivre ce fichier
+index2.html
