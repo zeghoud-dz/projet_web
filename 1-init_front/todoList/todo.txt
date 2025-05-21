@@ -1,0 +1,24 @@
+1- Ecouter le formulaire 
+
+2- En cas soummission du formulaire, créer un todo
+
+3- Mettre à jour la liste des todos
+
+4- Ecouter le bouton "Delete"
+
+5- En cas de click sur le bouton "Delete", supprimer le todo 
+
+6- Mettre à jour la liste des todos
+
+7- Ecouter le bouton "Update"
+
+8- En cas de click sur le bouton "Update", autoriser la mise à jour du todo,
+et ecouter le bouton "Save".
+
+9- En cas de click sur le bouton "Save", terminer la mise à jour
+
+10- Mettre à jour l'interface
+
+
+
+
